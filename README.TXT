@@ -4,7 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: PLATECH21 PROJECT
+PROJECT TITLE: PLATECH22 PROJECT
 PURPOSE OF PROJECT: TO SUBMIT OUR PROJECT ACTIVITIES
 VERSION or DATE: VERSION 01 DATE ESTABLISHED ON 3/17/20
 HOW TO START THIS PROJECT: JUST CLICK BUT DONT OPEN THE JAVA FILE. JUST RIGHT CLICK AND CLICK THE main(String[] args) Because the main method is static
